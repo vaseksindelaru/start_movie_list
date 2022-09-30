@@ -1,0 +1,27 @@
+{
+  "name": "apipel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build":"next build",
+    "start":"next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaseksindelaru/start_movie_list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaseksindelaru/start_movie_list/issues"
+  },
+  "homepage": "https://github.com/vaseksindelaru/start_movie_list#readme",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
